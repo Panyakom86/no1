@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTINF:-1 tvg-name="My Channel FHD" group-title="Live", My Channel (1080p)
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4500000,RESOLUTION=1920x1080
+
+#EXTINF:-1 tvg-id="" tvg-name="My Channel FHD" group-title="Live",My Channel (1080p)
 http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=69660&extension=m3u8
-#EXTINF:-1 tvg-name="My Channel HD" group-title="Live", My Channel (720p)
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000,RESOLUTION=1280x720
+
+#EXTINF:-1 tvg-id="" tvg-name="My Channel HD" group-title="Live",My Channel (720p)
 http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=69659&extension=m3u8
