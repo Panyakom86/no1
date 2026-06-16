@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-name="My Channel FHD" group-title="Live", (1080p)
+#EXTINF:-1 tvg-name="My Channel FHD" group-title="Live", My Channel (1080p)
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4500000,RESOLUTION=1920x1080
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1745092&extension=m3u8
 
